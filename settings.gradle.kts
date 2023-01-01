@@ -1,6 +1,5 @@
 pluginManagement {
     repositories {
-        google()
         gradlePluginPortal()
         mavenCentral()
         maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
@@ -12,5 +11,5 @@ pluginManagement {
     }
 }
 
-rootProject.name = "compose-handle-js-errors"
+rootProject.name = "web-with-react"
 
